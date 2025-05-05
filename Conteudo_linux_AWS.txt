@@ -28,6 +28,29 @@ Configurando servidores DNS Bind – Implantação de serviços de resolução d
 Configurando servidores FTP/HTTP – Implementação, segurança e configuração de acessos remotos  
 Configurando servidores SMB/NFS/EFS – Compartilhamento de arquivos em ambientes Linux e AWS  
 Configurando servidor de domínio DNS Bind9 – Administração avançada de servidores DNS  
-Configurando serviço de domínio DNS Route 53 – Utilização do DNS gerenciado da AWS para alta disponibilidade  
+Configurando serviço de domínio DNS Route 53 – Utilização do DNS gerenciado da AWS para alta disponibilidade
+Configurando servidores Bastion Hosts (Instance NAT) – Implementação de acesso remoto seguro à AWS
+Configuração de servidor VPN OpenSource – Integração de VPNs para conectar ambientes privados
+Implantação de aplicações Web PHP no Linux – Configuração de ambiente LAMP e hospedagem segura de sites
+Desacoplando aplicações usando contêineres Docker – Gerenciamento de contêineres para aplicações isoladas
+Integração com Kubernetes para orquestração de contêineres – Gerenciamento de clusters e escalabilidade automatizada
+Construção e hospedagem de websites completos no Linux – Implantação e administração de WordPress na nuvem
+Análise de logs de acesso no Linux – Registro, auditoria e interpretação de logs do sistema
+Logs de acesso na AWS – Uso do CloudTrail e VPC Flow Logs para monitoramento
+Configuração de banco de dados MySQL (MariaDB, RDS) – Administração, otimização e estratégias de backup
+Configuração de banco de dados NoSQL (DynamoDB) – Modelagem eficiente e uso otimizado na AWS
+Monitoramento do sistema com Netdata e Zabbix – Identificação de métricas críticas e otimização do ambiente
+Ferramentas nativas de monitoramento – Uso de top, htop, sar, iostat para análise de desempenho
+Monitoramento avançado com Zabbix, Prometheus e Grafana – Coleta, visualização e alertas de recursos
+Implementação de servidor de backups no Linux – Estratégias de backup utilizando EBS, S3 e snapshots automatizados
+Uso do Store Gateway para backup – Integração e gerenciamento eficiente de backups na AWS
+Gerenciamento de volumes LVM no Linux – Criação, expansão e configuração de volumes lógicos
+Integração de armazenamento com S3 e EFS – Uso de storage escalável na AWS para alta disponibilidade
+Auto Scaling e alta disponibilidade – Configuração de instâncias escaláveis na AWS
+Configuração de AMIs Linux personalizadas – Criação e ajuste de imagens otimizadas para deploy
+Cloud Cost Management: Otimização de custos na AWS – Estratégias para reduzir custos, billing, Reserved Instances e alertas de gastos
+Infraestrutura como Código – Automação de ambientes Linux na AWS com CloudFormation, YAML, JSON, Terraform e Ansible
+Hardening de segurança Linux – Implementação de SELinux, AppArmor e autenticação multifator (MFA) para proteção avançada
+
 
 O texto continua, mas já está sem numeração! Se precisar do restante ou quiser alguma outra formatação, me avise. 😉
