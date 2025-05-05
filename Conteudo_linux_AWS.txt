@@ -28,6 +28,7 @@ Configurando servidores DNS Bind – Implantação de serviços de resolução d
 Configurando servidores FTP/HTTP – Implementação, segurança e configuração de acessos remotos  
 Configurando servidores SMB/NFS/EFS – Compartilhamento de arquivos em ambientes Linux e AWS  
 Configurando servidor de domínio DNS Bind9 – Administração avançada de servidores DNS  
+Configurando servidores de mensagens, mail POSTFIX, MAILx, SNS, SQS
 Configurando serviço de domínio DNS Route 53 – Utilização do DNS gerenciado da AWS para alta disponibilidade
 Configurando servidores Bastion Hosts (Instance NAT) – Implementação de acesso remoto seguro à AWS
 Configuração de servidor VPN OpenSource – Integração de VPNs para conectar ambientes privados
@@ -51,3 +52,5 @@ Configuração de AMIs Linux personalizadas – Criação e ajuste de imagens ot
 Cloud Cost Management: Otimização de custos na AWS – Estratégias para reduzir custos, billing, Reserved Instances e alertas de gastos
 Infraestrutura como Código – Automação de ambientes Linux na AWS com CloudFormation, YAML, JSON, Terraform e Ansible
 Hardening de segurança Linux – Implementação de SELinux, AppArmor e autenticação multifator (MFA) para proteção avançada
+
+
