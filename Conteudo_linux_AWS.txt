@@ -51,6 +51,3 @@ Configuração de AMIs Linux personalizadas – Criação e ajuste de imagens ot
 Cloud Cost Management: Otimização de custos na AWS – Estratégias para reduzir custos, billing, Reserved Instances e alertas de gastos
 Infraestrutura como Código – Automação de ambientes Linux na AWS com CloudFormation, YAML, JSON, Terraform e Ansible
 Hardening de segurança Linux – Implementação de SELinux, AppArmor e autenticação multifator (MFA) para proteção avançada
-
-
-O texto continua, mas já está sem numeração! Se precisar do restante ou quiser alguma outra formatação, me avise. 😉
