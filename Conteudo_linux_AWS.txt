@@ -3,7 +3,8 @@
 Conhecendo a Nuvem AWS – Conceitos fundamentais sobre computação em nuvem, tipos de serviços e benefícios  
 Explorando o AWS CloudShell e AWS CLI – Utilização das ferramentas de linha de comando para interagir com serviços da AWS  
 Primeiros passos no Linux – Compreensão do sistema Linux, uso básico do terminal, comandos iniciais (curl, wget)  
-Comandos essenciais do Linux – Operações básicas como manipulação de arquivos e diretórios (ls, cd, rm, mkdir)  
+Comandos essenciais do Linux – Operações básicas como manipulação de arquivos e diretórios (ls, cd, rm, mkdir) 
+Comandos de redirecionamento de fluxo de saída - Expressões regulares
 Comandos avançados do Linux – Processos, gerenciamento de memória e diagnóstico do sistema (ps, kill, top)  
 Editores de texto no Linux – Domínio dos editores VIM e Nano, edição e configuração de arquivos do sistema  
 Gerenciamento de usuários no Linux – Criação, administração e exclusão de contas, permissões e segurança  
@@ -17,7 +18,7 @@ Trabalhando com scripts em Python – Desenvolvimento de automações, manipula�
 Trabalhando com scripts em PHP – Aplicações web e scripts administrativos no Linux  
 Configuração e gerenciamento de APIs no Linux – Comunicação entre sistemas, consumo de APIs REST  
 Versionamento de código com GitHub – Controle de versões, utilização de branches e pull requests  
-Introdução a redes de computadores – Conceitos fundamentais, arquitetura de redes, protocolos de comunicação  
+Introdução a redes de computadores – Conceitos fundamentais, arquitetura de redes, protocolos de comunicação, Versões do IP.
 Redes em ambientes Linux na AWS – Configuração de redes privadas, roteamento e segurança  
 Configuração de interfaces de rede no Linux – Definição de endereços IP, análise de tráfego, configuração avançada  
 Ferramentas de diagnóstico de rede – Uso de ping, traceroute, netstat e inspeção de pacotes  
@@ -34,7 +35,7 @@ Configurando servidores Bastion Hosts (Instance NAT) – Implementação de aces
 Configuração de servidor VPN OpenSource – Integração de VPNs para conectar ambientes privados
 Implantação de aplicações Web PHP no Linux – Configuração de ambiente LAMP e hospedagem segura de sites
 Desacoplando aplicações usando contêineres Docker – Gerenciamento de contêineres para aplicações isoladas
-Integração com Kubernetes para orquestração de contêineres – Gerenciamento de clusters e escalabilidade automatizada
+Integração com contêineres na AWS - ECS, Fargate
 Construção e hospedagem de websites completos no Linux – Implantação e administração de WordPress na nuvem
 Análise de logs de acesso no Linux – Registro, auditoria e interpretação de logs do sistema
 Logs de acesso na AWS – Uso do CloudTrail e VPC Flow Logs para monitoramento
